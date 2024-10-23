@@ -9,7 +9,7 @@ As imagens (as mesmas utilizadas para a extração no Copilot) podem ser encontr
 
 Para rodar o projeto, primeiro você precisa ter o Python e o Tesseract instalados e funcionando por linha de comando. Faça o download do código, crie um ambiente virtual se preferir e utilize os seguintes comandos no terminal, dentro do diretório do projeto:
 
-pip install -r requirements.txt
+pip install -r requirements.txt   
 python main.py
 
 A aplicação irá extrair o texto de todas as imagens presentes no diretório "input" e criar arquivos .txt com o mesmo nome das imagens no diretório "output".
